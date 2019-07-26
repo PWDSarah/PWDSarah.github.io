@@ -1,0 +1,99 @@
+body{
+	background: #ccff66;
+	background-image: url("../images/xiaoxun.png");
+	background-repeat: no-repeat;
+	background-size: 900px 1500px;
+	background-position: 430px 290px;
+}
+
+h4 {color: #ffcccc;
+	font-family: 'Impact';
+	font-size:40px;
+	font-weight: 100;
+}
+
+.selection1 {margin:50px;
+	border:5px double skyblue;
+	padding:10px;
+	font-family:'Impact';
+	background-color:rgba(255, 26, 26,0.4) ;
+	font-size: 20px;
+	text-align: center;
+}
+.selection{
+	background-color:rgba(255, 148, 77,0.3);
+	margin-top:40px;
+	margin-left: 200px;
+	width:630px;
+	height:100%;
+	padding:10px;
+	border:5px double skyblue;
+}
+
+
+
+
+
+#no1{ 
+	color:black;
+	margin-top:30px;
+	margin-left:100px;
+	width:800px;
+	height:100%;
+	padding:10px;
+	background-color : rgba(255, 153, 187,0.3);
+	font-family: "Caveat",cursive; 
+	font-size: 40px;
+}
+#o2{ margin-top:40px;
+	margin-left: 500px;
+	width:650px;
+	height:100%;
+	padding:10px;
+	background-color: rgba(255, 153, 187,0.3);
+	font-family: "Caveat",cursive; 
+	font-size: 40px;
+}
+.no3{background:rgba(255, 153, 187,0.3);
+	color: black;
+	font-family:"Caveat", cursive ;
+	font-size:40px;
+	width: 800px;
+	margin-left:400px;
+	font-position: 750px 1000px;
+}	
+
+.o1{color: black;
+	font-family: "Caveat", cursive;
+	font-size: 30px;
+	margin-top:40px;
+	margin-left: 100px;
+	width:700px;
+	height:100%;
+}	
+
+#w1, #w2{
+	color: purple;
+	font-family: "Caveat", cursive;
+	font-size: 40px;
+}
+.no4{color: black;
+	font-family: "Caveat", cursive;
+	font-size: 30px;
+	margin-top:40px;
+	margin-left: 500px;
+	width:630px;
+	height:100%;}
+#music_control {
+	padding-left:70%;
+	width: 30%;
+	position: sticky;
+	right: 10px;
+	top: 10px;
+}
+.bgm{margin-top:40px;
+	margin-left: 500px;
+	width:630px;
+	height:100%;
+	position:center;
+}
