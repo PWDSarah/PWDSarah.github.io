@@ -2,8 +2,8 @@ body{
 	background: #ccff66;
 	background-image: url("../images/xiaoxun.png");
 	background-repeat: no-repeat;
-	background-size: 1300px 1800px;
-	background-position: 390px 290px;
+	background-size: 900px 1500px;
+	background-position: 430px 290px;
 }
 
 h4 {color: #ffcccc;
@@ -59,8 +59,8 @@ h4 {color: #ffcccc;
 	font-family:"Caveat", cursive ;
 	font-size:40px;
 	width: 800px;
-	margin-left:700px;
-	font-position: 1200px 1000px;
+	margin-left:400px;
+	font-position: 750px 1000px;
 }	
 
 .o1{color: black;
@@ -92,8 +92,20 @@ h4 {color: #ffcccc;
 	top: 10px;
 }
 .bgm{margin-top:40px;
-	margin-left: 500px;
+	margin-left: 400px;
 	width:630px;
 	height:100%;
 	position:center;
+}
+.d1 {
+	background-color:rgba(0, 122, 204,0.4) ;
+	padding-top: 30px;
+	color:rgb(255, 102, 102);
+	font-size:30px；
+	padding-left: 10px;
+	 width:150px;
+	height:50px;
+	position:fixed;
+	left: 20px;
+	top:140px;
 }
