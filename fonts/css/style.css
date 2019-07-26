@@ -1,0 +1,42 @@
+body {
+	background-color:#ccff66;
+	text-align: center;
+	background-image: url("../images/zhengti2.png");
+	background-repeat: no-repeat;
+	background-size: 1000px 2500px;
+	background-position: 100px 310px;
+	}
+h4 {color: #ffcccc;
+	font-family: 'Impact';
+	font-size:40px;
+	font-weight: 100;
+
+}
+h5{
+	font-family: 'Impact';
+	font-size:30px;
+}
+.selection {margin:100px;
+	border:5px double skyblue;
+	padding:70px;
+	font-family:'Impact';
+	background-color: rgba(255,255,255,0.3);
+}
+
+
+.selection1 {margin:100px;
+	border:5px double skyblue;
+	padding:10px;
+	font-family:'Impact';
+	background-color: rgba(255,255,255,0.3);
+	font-size: 20px;
+}
+
+#music_control {
+	padding-left:70%;
+	width: 30%;
+	position: sticky;
+	right: 10px;
+	top: 10px;
+}
+

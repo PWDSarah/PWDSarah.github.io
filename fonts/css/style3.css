@@ -1,0 +1,39 @@
+body{
+background-color:#ccff66;
+background-image: url("../images/wadang-03.png");
+	background-repeat: no-repeat;
+	background-size: 1000px 1000px;
+	background-position: 400px 100px; 
+} 
+
+.imgs{margin-top:30px;
+	margin-left: 150px;
+}
+	
+.v1{
+	margin-top:50px;
+	margin-left: 150px;
+	width:700px;
+	height:100%;
+}
+	
+.title1{
+	margin-top:10px;
+	margin-left: 150px;
+	width:800px;
+	height:100%;
+}
+.bgm{
+	margin-top:40px;
+	margin-left: 500px;
+	width:630px;
+	height:100%;
+	position:center;
+}
+#music_control {
+	padding-left:70%;
+	width: 30%;
+	position: sticky;
+	right: 10px;
+	top: 10px;
+}
